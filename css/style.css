@@ -188,3 +188,9 @@ COMPONENTS
     background-color: #0a66c2;
 }
 
+/* Aide stylistique */
+
+.conteneur-transport-invisible{
+    display: none;
+}
+
