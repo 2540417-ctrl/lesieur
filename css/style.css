@@ -163,4 +163,28 @@ COMPONENTS
     align-items: center;
 }
 
+.menu-social{
+    display: flex;
+    gap: 20px;
+
+    list-style-type: none;
+}
+
+.footer{
+    background-color: #000;
+
+    color: #fff;
+}
+
+.facebook a:hover{
+    background-color: #1877f2;
+}
+
+.twitter a:hover{
+    background-color: #1da1f2;
+}
+
+.linkedin a:hover{
+    background-color: #0a66c2;
+}
 
